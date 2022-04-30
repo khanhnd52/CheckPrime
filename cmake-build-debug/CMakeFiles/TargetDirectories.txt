@@ -1,0 +1,3 @@
+/home/khanhnd52/CLionProjects/BasicNumber/Prime/CheckPrime/cmake-build-debug/CMakeFiles/CheckPrime.dir
+/home/khanhnd52/CLionProjects/BasicNumber/Prime/CheckPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/khanhnd52/CLionProjects/BasicNumber/Prime/CheckPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
